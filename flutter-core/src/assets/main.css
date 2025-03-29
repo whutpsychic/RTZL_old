@@ -1,0 +1,14 @@
+@import './common.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 15px;
+}
+
+#app {
+  font-weight: normal;
+}
